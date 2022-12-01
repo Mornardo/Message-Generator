@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "lol-champions": "^10.23.1"
+  }
+}
